@@ -6,5 +6,5 @@ Our research produces timely, relevant findings that help people everywhere stay
 
 Learn more about us and our research: 
 * [Home Page](https://www.kpwashingtonresearch.org/)
-* [Recent Publications](https://www.kpwashingtonresearch.org/our-research/publications) ([All Publications on Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=%22kaiser+permanente+washington+health+research+institute%22%5Bad%5D+or+%22group+health+research+institute%22%5Bad%5D&sort=date)).
+* [Recent Publications](https://www.kpwashingtonresearch.org/our-research/publications) ([All Publications on Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=%22kaiser+permanente+washington+health+research+institute%22%5Bad%5D+or+%22group+health+research+institute%22%5Bad%5D&sort=date))
 * [Github Projects](https://github.com/kpwhri)

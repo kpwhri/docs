@@ -1,6 +1,5 @@
 
-Documentation on KPWHRI Projects
-==================================
+![](images/KPWHRI-KP-Blue_420w.png)
 
 ```{toctree}
 ---
